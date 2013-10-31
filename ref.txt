@@ -1,0 +1,2 @@
+Foursquare User Data Set
+via http://www-users.cs.umn.edu/~sarwat/foursquaredata/, which as of 2013-10-31, has been taken down per Foursquare request
